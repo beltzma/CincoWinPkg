@@ -24,9 +24,9 @@
             ],
             "toolsDependencies": [
             {
-                "packager": "sifive",
-                "version": "3f7b3696",
-                "name": "riscv64-unknown-elf-gcc"
+                "packager": "sifive", 
+                "version": "3f7b3696217548bc31aeccf9a0c89bdfa4e16a8f", 
+                "name": "riscv32-unknown-elf-gcc"
             },
             {
                 "packager": "sifive",
